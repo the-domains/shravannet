@@ -1,4 +1,3 @@
-layout_spectrum: 0.6618281141854823
 typography_spectrum: 0.6288024301175028
 color:
   brandStrength: 0.43595075723715127
@@ -6,9 +5,11 @@ color:
   saturation: 0.08975695655681193
   rhythmicContrast: 0.29710231092758477
   brandColors:
-    - '#2F2933'
-    - '#01A2A6'
-    - '#29D9C2'
-    - '#BDF271'
-    - '#FFFFA6'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.6618281141854823
 name: 'Shravan.NET '
+title: Hi
